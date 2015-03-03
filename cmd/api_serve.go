@@ -36,7 +36,7 @@ func makeCmdAPIServe() *commander.Command {
 		UsageLine: "serve",
 		Short:     "start API HTTP service",
 		Long: `
-Stat HTTP server with aptly REST API.
+Start HTTP server with aptly REST API.
 
 Example:
 
